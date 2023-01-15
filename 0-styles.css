@@ -363,7 +363,7 @@ ul.row {
   top: 0;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 767px) {
   :root {
     --header-padding: 2rem 0 0;
   }
