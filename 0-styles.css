@@ -143,7 +143,7 @@ a {
 .background-Hero-Header {
   background: url(images/headphones_hero_1.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: 35% 0;
 }
 
@@ -420,7 +420,7 @@ ul.row {
 }
 
 .section-hero .section-body {
-  padding: 27rem 10rem;
+  padding: 27rem 10rem 0;
 }
 
 .section-hero .hero-title-h2 {
